@@ -1,0 +1,32 @@
+.btn-login,.btn-login:hover,.btn-login:visited,.btn-login:focus {
+  color: #fff !important;
+  background-color: #00AAFF !important;
+}
+span.icon.fa {
+  color: #fff !important;
+}
+.find-courses .discovery-submit {
+  border-color: #00AAFF !important;
+  background-color: #00AAFF !important;
+}
+#discovery-message {
+  color: #fff !important;
+  background-color: #00AAFF !important;
+}
+.find-courses, .university-profile {
+  background-color: transparent !important;
+}
+.find-courses .wrapper-search-context .search-status-label {
+  width: 71.41059% ! important;
+  padding-left: 3% !important;
+}
+.courses-container .courses .course .course-image .cover-image .learn-more {
+  border-color: #00AAFF !important;
+  background: #00AAFF !important;
+}
+.courses-container .courses .course {
+  border-bottom: 3px solid #00AAFF !important;
+}
+.find-courses .search-facets .facet-option:hover, .find-courses .search-facets .facet-option:focus {
+  background: #00AAFF !important;
+}
